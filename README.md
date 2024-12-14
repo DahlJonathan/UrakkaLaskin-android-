@@ -1,4 +1,5 @@
 this is a android app for calculating contract work(urakka) i made for my workplace
+you can find it on google play https://play.google.com/store/apps/details?id=com.dahl.worktrackerapp
 
 ## Getting Started
 
